@@ -3,7 +3,7 @@ CNN models build for age prediction
 
 ## Intro
 
-In this project, the detail of convolutional neural network would be discussed, including the architecture and mechanisms. And the CNN model would be used to realize age classification implemented by existed libraries including TensorFlow, Caffe, etc. IMDB-WIKI is selected as data set for training and testing. The result of this age classification model would be discussed and analyzed.
+In this project, the detail of convolutional neural network would be discussed, including the architecture and mechanisms. And the CNN model would be used to realize age classification implemented by existed libraries including <span style="color:red">Keras, TensorFlow, Caffe,</span>. etc. <mark>IMDB-WIKI</mark> is selected as data set for training and testing. The result of this age classification model would be discussed and analyzed.
 
 ## Required Python Libs for Running
 
